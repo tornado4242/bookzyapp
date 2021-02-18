@@ -11,12 +11,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 //import org.openqa.selenium.WebDriver;
 //import org.openqa.selenium.chrome.ChromeDriver;
 
-@SpringBootTest
-class BookzyAppApplicationTests {
+//@SpringBootTest
+//class BookzyAppApplicationTests {
 
-        @Test
-        void contextLoads() {
-        }
-
-}
+//        @Test
+//        void contextLoads() {
+//        }
+//
+//}
 
