@@ -16,7 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  * Sample junit test code to integrate by
  */
 public class bookzyapp.java
-{
+			{
     private static String Base_Url = "https://www.facebook.com";
     private WebDriver driver;
 
