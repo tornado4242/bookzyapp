@@ -53,13 +53,3 @@ public class bookzyapp
     }
 }
 
-
-
-#@SpringBootTest
-#class BookzyAppApplicationTests {
-#
-#	@Test
-#	void contextLoads() {
-#	}
-#
-#}
